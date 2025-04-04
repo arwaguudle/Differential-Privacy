@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Differential Privacy"
+authors:
+  - family-names: Guudle
+    given-names: Arwa
+date-released: 2025-04-04
+version: "1.0.0"
+url: https://github.com/arwaguudle/Differential-Privacy
