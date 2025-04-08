@@ -1,0 +1,11 @@
+id,age,income,visits,diagnosis
+1,25,50000,3,Diabetes
+2,32,75000,5,Healthy
+3,45,60000,2,Cancer
+4,28,48000,4,Healthy
+5,50,90000,6,Diabetes
+6,22,30000,1,Healthy
+7,35,65000,7,Cancer
+8,40,80000,3,Diabetes
+9,29,55000,2,Healthy
+10,60,95000,5,Cancer
